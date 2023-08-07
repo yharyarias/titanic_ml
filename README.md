@@ -71,6 +71,8 @@ The Titanic ML package includes unit tests for the `titanic_model` module. To ru
 ```bash
 pytest --cov=titanic_ml --cov-report html
 ```
+#### Coverage report
+<img width="649" alt="Captura de pantalla 2023-08-07 a la(s) 11 10 52 a m" src="https://github.com/yharyarias/titanic_ml/assets/36517495/9261edf1-167f-4d4e-a40a-55fada46b3a2">
 
 The coverage report will be available in the `htmlcov/` directory.
 

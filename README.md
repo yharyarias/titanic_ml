@@ -85,7 +85,6 @@ The coverage report will be available in the `htmlcov/` directory.
 * coverage
 
 ### License
-The Titanic ML package is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
 For more information on how to use the Titanic ML package, you can refer to the package documentation or contact the authors.
 
